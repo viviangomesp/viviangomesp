@@ -1,6 +1,6 @@
 # Hi there, I'm Vivian 👋🏽
 
-✨ “per aspera ad astra” ✨
+✨ *“per aspera ad astra”* ✨
 
 * Computer Engineering Student at UNIJORGE
 * Passionate about technology, automation and maker projects! 
