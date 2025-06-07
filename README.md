@@ -20,7 +20,7 @@
 
 <div align="center">
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viviangomesp&hide=contribs,issues&hide_rank=true&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" /></a> | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangomesp&layout=compact&theme=gotham" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viviangomesp&hide=contribs,issues&hide_rank=true&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true" /></a> | <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviangomesp&layout=compact&theme=vue-dark" /></a> |
 | ---------------- | ---------------- |
 
 </div>
